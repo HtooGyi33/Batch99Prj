@@ -8,6 +8,7 @@ public class Exercise1 {
 		// TODO Auto-generated method stub
 		Exercise1 stu = new Exercise1();
 		System.out.println(stu.name);
+		System.out.println();
 	}
 
 }
